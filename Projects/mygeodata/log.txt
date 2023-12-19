@@ -1,0 +1,9 @@
+Warning 1: TFW=ON or WORLDFILE=ON creation options are ignored when GCPs are available
+Warning 1: TFW=ON or WORLDFILE=ON creation options are ignored when GCPs are available
+Warning 1: TFW=ON or WORLDFILE=ON creation options are ignored when GCPs are available
+Warning 1: TFW=ON or WORLDFILE=ON creation options are ignored when GCPs are available
+Warning 1: TFW=ON or WORLDFILE=ON creation options are ignored when GCPs are available
+Warning 1: TFW=ON or WORLDFILE=ON creation options are ignored when GCPs are available
+Warning 1: TFW=ON or WORLDFILE=ON creation options are ignored when GCPs are available
+Warning 1: TFW=ON or WORLDFILE=ON creation options are ignored when GCPs are available
+Warning 1: TFW=ON or WORLDFILE=ON creation options are ignored when GCPs are available
